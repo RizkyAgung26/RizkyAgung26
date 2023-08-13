@@ -1,14 +1,14 @@
 ### Hi! 👋 Saye Rizky Agung.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+Seorang anak pulau yang suka mempelajari dan membuat proyek mengenai web dan teknologi seluler! Saya sangat menikmati penggunaan JavaScript dan menjadikan bahasa utama dalam memngembangkan suatu proyek.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+Saat ini saya adalah seorang mahasiswa di salah satu perguruan tinngi di <a href="https://umrah.ac.id/">Universitas Maritim Raja Ali Haji</a> dengan jurusan manajemen fakultas ekonomi dan bisnis maritim.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🔭 Saat ini saya sedang mengikuti program studi independen kampus merdeka di <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 Saat ini saya sedang mempelajari tentang pengembangan Front-End Web dan Back-End
+- 💬 Jalani, Nikmati, apapun hasilnya Syukuri
+- 📫 Cara menghubungi saya : rizkylemes123@gmail.com
+- ⚡ 
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -28,10 +28,9 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="www.linkedin.com/in/rizky-agung-a2946a288/">LinkedIn</a>
+- F252YB052@dicoding.org
+- <a href="https://www.instagram.com/riiizky_agung/">Instagram</a>
 
 <!--
 **RizkyAgung26/RizkyAgung26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
